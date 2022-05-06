@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ICSecurity-Git
-- 👀 ICSecurity does OT/ICS/Industrial cyber security
+- 👀 ICSecurity loves OT/ICS/Industrial cyber security
 
 
 <!---
